@@ -1,17 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://portopollo.com/</loc>
-    <lastmod>2026-05-06</lastmod>
+    <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="it" href="https://portopollo.com/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://portopollo.com/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://portopollo.com/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://portopollo.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portopollo.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://portopollo.com/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://portopollo.com/?lang=de"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://portopollo.com/"/>
   </url>
-
+  <url>
+    <loc>https://portopollo.com/windsurf/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portopollo.com/windsurf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portopollo.com/windsurf/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://portopollo.com/windsurf/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://portopollo.com/windsurf/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portopollo.com/windsurf/"/>
+  </url>
+  <url>
+    <loc>https://portopollo.com/kitesurf/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portopollo.com/kitesurf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portopollo.com/kitesurf/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://portopollo.com/kitesurf/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://portopollo.com/kitesurf/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portopollo.com/kitesurf/"/>
+  </url>
+  <url>
+    <loc>https://portopollo.com/wingfoil/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portopollo.com/wingfoil/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portopollo.com/wingfoil/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://portopollo.com/wingfoil/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://portopollo.com/wingfoil/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portopollo.com/wingfoil/"/>
+  </url>
+  <url>
+    <loc>https://portopollo.com/activities/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portopollo.com/activities/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portopollo.com/activities/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://portopollo.com/activities/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://portopollo.com/activities/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portopollo.com/activities/"/>
+  </url>
+  <url>
+    <loc>https://portopollo.com/noleggio/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portopollo.com/noleggio/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portopollo.com/noleggio/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://portopollo.com/noleggio/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://portopollo.com/noleggio/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portopollo.com/noleggio/"/>
+  </url>
+  <url>
+    <loc>https://portopollo.com/restaurants/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portopollo.com/restaurants/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portopollo.com/restaurants/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://portopollo.com/restaurants/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://portopollo.com/restaurants/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portopollo.com/restaurants/"/>
+  </url>
+  <url>
+    <loc>https://portopollo.com/where-to-stay/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portopollo.com/where-to-stay/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portopollo.com/where-to-stay/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://portopollo.com/where-to-stay/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://portopollo.com/where-to-stay/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portopollo.com/where-to-stay/"/>
+  </url>
+  <url>
+    <loc>https://portopollo.com/beaches/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portopollo.com/beaches/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portopollo.com/beaches/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://portopollo.com/beaches/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://portopollo.com/beaches/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portopollo.com/beaches/"/>
+  </url>
+  <url>
+    <loc>https://portopollo.com/webcam/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portopollo.com/webcam/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portopollo.com/webcam/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://portopollo.com/webcam/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://portopollo.com/webcam/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portopollo.com/webcam/"/>
+  </url>
+  <url>
+    <loc>https://portopollo.com/weather/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://portopollo.com/weather/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://portopollo.com/weather/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://portopollo.com/weather/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://portopollo.com/weather/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://portopollo.com/weather/"/>
+  </url>
 </urlset>
